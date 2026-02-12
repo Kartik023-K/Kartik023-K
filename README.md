@@ -28,8 +28,8 @@
     <img src="https://lanyard.cnrad.dev/api/1298128610942783499?borderRadius=10px&theme=dark" />
   </a>
 <p align="center">
-  <a href="https://open.spotify.com/user/31evdmjuw4f2sr76nlu5flcylroy">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31evdmjuw4f2sr76nlu5flcylroy&cover_image=true&theme=natemoo-re" />
+  <a href="https://open.spotify.com/user/31vlaf6snpjravrqt2zcbhf467ku">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31vlaf6snpjravrqt2zcbhf467ku&cover_image=true&theme=natemoo-re" />
   </a>
 </p>
 
