@@ -35,8 +35,6 @@
 
 ## Connect with Me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1298128610942783499)]
-
 <p align="center">
   <a href="https://discord.gg/qzuMnfzRx3">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
