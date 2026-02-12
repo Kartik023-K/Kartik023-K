@@ -4,23 +4,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Mobile+Editor;Graphic+Designer;Code.+Break.+Fix.+Repeat" />
 </p>
 ---
-
-## Technical Profile
-
-* **Languages:** JavaScript, Python, HTML/CSS
-* **Learning:** TypeScript
-* **Expertise:** Discord.js, Web Development, UI Design
-* **Organization:** Active contributor at 
-
+## About Me
+* I’m a student learning programming step by step.
+* I build small projects to practice and improve my skills.
+* I enjoy creating Discord bots to enhance my logic and problem-solving.
+* I focus on writing clean code and understanding how systems work.
+* Always learning and experimenting with new ideas.
 ---
-
-## 📌 About Me
-- I’m a student learning programming step by step.
-- I build small projects to practice and improve my skills.
-- I enjoy creating Discord bots to enhance my logic and problem-solving.
-- I focus on writing clean code and understanding how systems work.
-- Always learning and experimenting with new ideas.
-
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
