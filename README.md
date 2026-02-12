@@ -25,11 +25,14 @@
 
 <p align="center">
   <a href="https://discord.gg/vegmwmZt8G" target="_blank">
-    <img align="center" src="https://lanyard.cnrad.dev/api/1298128610942783499?theme=dark&idleMessage=I'm%20working%20on%20something%20important%20and%20secret!" />
+    <img src="https://lanyard.cnrad.dev/api/1298128610942783499?theme=dark&idleMessage=I'm%20working%20on%20something%20important%20and%20secret!" />
   </a>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" alt="Kartik023-K's GitHub Streak" width="49%" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" width="49%" />
+</p>
+
 
 ---
 
