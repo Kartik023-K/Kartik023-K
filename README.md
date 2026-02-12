@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://discord.com/users/1298128610942783499" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1298128610942783499?theme=dark&bg=0F172A&borderRadius=15px&idleMessage=Probably%20coding%20something%20cool...&showDisplayName=true" />
+    <img src="https://lanyard.cnrad.dev/api/1298128610942783499?borderRadius=10px&theme=dark" />
   </a>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" width="49%" />
