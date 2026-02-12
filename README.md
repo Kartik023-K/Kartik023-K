@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20,29&text=Hey%2C%20I'm%20Kartik&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=34495E&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Learning+JavaScript;Build.+Test.+Debug.+Deploy;Learning+Something+New+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=16213E&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Learning+JavaScript;Build.+Test.+Debug.+Deploy;Learning+Something+New+Everyday" />
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Kartik023-K">
