@@ -38,7 +38,6 @@
   <a href="https://github.com/Kartik023-K">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
 <a href="https://instagram.com/YOUR_USERNAME">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
