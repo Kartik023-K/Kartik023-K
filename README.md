@@ -25,10 +25,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kartik023-K&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" alt="Kartik023-K's GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=radical&hide_border=true&cache_seconds=86400" alt="Kartik023-K's GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik023-K&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Kartik's GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kartik023-K&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" width="40%" />
 </p>
 
 ---
