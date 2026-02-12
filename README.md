@@ -31,14 +31,15 @@
 <div align="center">
 
   <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31evdmjuw4f2sr76nlu5flcylroy?si=453dad72e9dc449d&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0F172A&bar_color=1DB954&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31evdmjuw4f2sr76nlu5flcylroy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0F172A&bar_color=1DB954&bar_color_cover=false" />
   </a>
 
   <br/><br/>
 
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31evdmjuw4f2sr76nlu5flcylroy?si=453dad72e9dc449d&count=5" />
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31evdmjuw4f2sr76nlu5flcylroy&count=5" />
 
 </div>
+
 ---
 
 ## Activity & Stats
