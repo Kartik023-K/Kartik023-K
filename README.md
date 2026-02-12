@@ -27,12 +27,6 @@
   <a href="https://discord.com/users/1298128610942783499" target="_blank">
     <img src="https://lanyard.cnrad.dev/api/1298128610942783499?borderRadius=10px&theme=dark" />
   </a>
-<p align="center">
-  <a href="https://open.spotify.com/user/31evdmjuw4f2sr76nlu5flcylroy" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31evdmjuw4f2sr76nlu5flcylroy&cover_image=true&theme=natemoo-re&show_offline=true&background_color=0F172A&bar_color=1DB954&bar_color_cover=false" />
-  </a>
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31evdmjuw4f2sr76nlu5flcylroy&count=5" />
 </p>
 
 ---
