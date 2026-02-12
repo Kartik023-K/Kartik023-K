@@ -24,7 +24,6 @@
 ## Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik023-K&show_icons=true&theme=prussian&hide_border=true&count_private=true&cache_seconds=86400" alt="Kartik023-K's GitHub Stats" width="49%" />
   <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" alt="Kartik023-K's GitHub Streak" width="49%" />
 </p>
 
