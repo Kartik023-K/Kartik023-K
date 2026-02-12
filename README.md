@@ -3,6 +3,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Code.+Break.+Fix.+Repeat" />
 </p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=Kartik023-K">
+    <img src="https://komarev.com/ghpvc/?username=Kartik023-K&label=Profile%20views&color=00FFFF&style=flat-square" alt="Kartik023-K's profile views" />
+  </a>
+</p>
 
 ---
 
