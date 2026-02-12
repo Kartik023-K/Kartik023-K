@@ -12,6 +12,7 @@
 * I build small projects to practice and improve my skills.
 * I enjoy creating Discord bots to enhance my logic and problem-solving.
 * I focus on writing clean code and understanding how systems work.
+* Always learning and experimenting with new ideas.
 
 ---
 
@@ -31,7 +32,7 @@
 ## Contact
 
 <p align="center">
-  <a href="[https://discord.com/users/937380760875302974](https://discord.gg/qzuMnfzRx3)">
+  <a href="https://discord.gg/qzuMnfzRx3">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://github.com/Kartik023-K">
