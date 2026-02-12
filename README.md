@@ -6,6 +6,17 @@
   </a>
 </p>
 
+---
+
+## Technical Profile
+
+* **Languages:** JavaScript, Python, HTML/CSS
+* **Learning:** TypeScript
+* **Expertise:** Discord.js, Web Development, UI Design
+* **Organization:** Active contributor at 
+
+---
+
 ## 📌 About Me
 - I’m a student learning programming step by step.
 - I build small projects to practice and improve my skills.
