@@ -42,9 +42,9 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </a>
-  <a href="mailto:kartik.tech.dev@gmail.com">
+  <a href="mailto:kartik.tech.dev@gmail.com?subject=Contact%20From%20GitHub&body=Hello%20Kartik,%20I%20want%20to%20connect%20with%20you.">
   <img src="https://img.shields.io/badge/Email-2C3E50?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
- </a>
+</a>
 </p>
 
 <p align="center">
