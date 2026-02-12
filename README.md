@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=6,11,20,29&text=Hey%2C%20I'm%20Kartik&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00C9FF&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Learning+JavaScript;Build.+Test.+Debug.+Deploy;Learning+Something+New+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=118AB2&center=true&vCenter=true&width=435&lines=Discord+Bot+Builder;Learning+JavaScript;Build.+Test.+Debug.+Deploy;Learning+Something+New+Everyday" />
 </p>
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Kartik023-K">
@@ -24,11 +24,8 @@
 ## Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kartik023-K&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kartik023-K&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartik023-K&show_icons=true&theme=prussian&hide_border=true&count_private=true&cache_seconds=86400" alt="Kartik023-K's GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" alt="Kartik023-K's GitHub Streak" width="49%" />
 </p>
 
 ---
