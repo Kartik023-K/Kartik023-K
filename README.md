@@ -43,7 +43,7 @@
   </a>
 </a>
   <a href="mailto:kartik.tech.dev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  <img src="https://img.shields.io/badge/Email-2C3E50?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
  </a>
 </p>
 
