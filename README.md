@@ -23,8 +23,10 @@
 
 ## Activity & Stats
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1298128610942783499?theme=dark&bg=0F172A&borderRadius=15px&idleMessage=Probably%20coding%20something%20cool...&showDisplayName=true)](https://discord.com/users/1298128610942783499)
-
+<p align="center">
+  <a href="https://discord.com/users/391283181665517568" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/391283181665517568?theme=dark&bg=0F172A&borderRadius=15px&idleMessage=Probably%20coding%20something%20cool...&showDisplayName=true" />
+  </a>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
