@@ -35,7 +35,7 @@
 
 ## Connect with Me
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1298128610942783499)](https://discord.gg/EpX9Rp4c)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1298128610942783499)]
 
 <p align="center">
   <a href="https://discord.gg/qzuMnfzRx3">
