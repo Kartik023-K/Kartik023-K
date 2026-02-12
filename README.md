@@ -36,6 +36,12 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Kartik023-K&theme=prussian&hide_border=true&cache_seconds=86400" width="49%" />
 </p>
+<p align="center">
+  <a href="https://open.spotify.com/user/31evdmjuw4f2sr76nlu5flcylroy">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31evdmjuw4f2sr76nlu5flcylroy&cover_image=true&theme=natemoo-re" />
+  </a>
+</p>
+
 
 ---
 
